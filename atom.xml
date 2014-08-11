@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[奥特玛·张]]></title>
+  <title><![CDATA[奥特马·张]]></title>
   <link href="http://outmana.github.io/atom.xml" rel="self"/>
   <link href="http://outmana.github.io/"/>
-  <updated>2014-08-11T15:20:12+08:00</updated>
+  <updated>2014-08-11T15:23:58+08:00</updated>
   <id>http://outmana.github.io/</id>
   <author>
     <name><![CDATA[Clarity]]></name>
